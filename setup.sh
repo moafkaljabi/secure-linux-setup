@@ -3,7 +3,7 @@
 
 # Secure Linux Server Script.
 # Run as root or with sudo.
-
+# Tested on Ubuntu and Raspberry OS
 
 
 LOG_DIR="./logs"
